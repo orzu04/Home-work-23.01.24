@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\bin\Debug\net8.0\tsak1.exe
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\bin\Debug\net8.0\tsak1.deps.json
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\bin\Debug\net8.0\tsak1.runtimeconfig.json
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\bin\Debug\net8.0\tsak1.dll
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\bin\Debug\net8.0\tsak1.pdb
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\obj\Debug\net8.0\tsak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\obj\Debug\net8.0\tsak1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\obj\Debug\net8.0\tsak1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\obj\Debug\net8.0\tsak1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\obj\Debug\net8.0\tsak1.dll
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\obj\Debug\net8.0\refint\tsak1.dll
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\obj\Debug\net8.0\tsak1.pdb
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\obj\Debug\net8.0\tsak1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Home work 23.01\tsak1\obj\Debug\net8.0\ref\tsak1.dll
